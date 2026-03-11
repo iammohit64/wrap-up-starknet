@@ -16,19 +16,16 @@
 
 <br/>
 
-[🚀 Live Demo](#) &nbsp;•&nbsp; [🎥 Watch Demo Video](#)
+[🚀 Live Demo](https://wrap-up-starknet-tuq6.vercel.app/) &nbsp;•&nbsp; [🎥 Watch Demo Video](https://www.canva.com/design/DAHDjRx6hpw/rkVBopCqP_TIB2bO_gwe7g/watch?utm_content=DAHDjRx6hpw&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h2a5255ac38)
 
 <br/>
-
-> **⚠️ Demo Placeholder** — Replace the links above with your deployed URL and video walkthrough.
-
 </div>
 
 ---
 
 ## The Problem
 
-The internet is drowning in content. Readers can't trust what they find, curators have no provenance, and there's no verifiable record that an article ever mattered to anyone. Traditional platforms gatekeep what gets seen — with zero transparency.
+Daily, thousands of articles get published and forgotten. There's no permanent way to preserve the truth, verify who shared it, and no reward for the people who gives quality information. In media TRUST is broken. Wrap-Up builds the missing TRUST layer.
 
 ## Our Solution
 
@@ -90,14 +87,14 @@ Deployed on **Starknet Devnet**:
 
 > **📹 Video Placeholder** — Embed your demo video here.
 
-[![Watch Demo](https://img.shields.io/badge/▶%20Watch%20Demo-YouTube-FF0000?style=for-the-badge&logo=youtube)](#)
+[![Watch Demo](https://img.shields.io/badge/▶%20Watch%20Demo-YouTube-FF0000?style=for-the-badge&logo=youtube)](https://www.canva.com/design/DAHDjRx6hpw/rkVBopCqP_TIB2bO_gwe7g/watch?utm_content=DAHDjRx6hpw&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h2a5255ac38)
 
 ---
 
 ## 🔗 Links
 
-[![Live App](https://img.shields.io/badge/🌐%20Live%20Application-Visit%20Now-10b981?style=for-the-badge)](#)
-[![Starknet Explorer](https://img.shields.io/badge/⛓%20Contract%20Explorer-Starknet-EC4899?style=for-the-badge)](https://starkscan.co)
+[![Live App](https://img.shields.io/badge/🌐%20Live%20Application-Visit%20Now-10b981?style=for-the-badge)](https://wrap-up-starknet-tuq6.vercel.app/)
+[![Starknet Explorer](https://img.shields.io/badge/⛓%20Contract%20Explorer-Starknet-EC4899?style=for-the-badge)](https://sepolia.voyager.online/)
 
 ---
 
